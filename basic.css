@@ -518,8 +518,8 @@ p {
   }
 
   .about img {
-    width: 100%;
-    height: auto;
+    width: 800px;
+    height: 350px;
   }
 
   .hero h1 {
